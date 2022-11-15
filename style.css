@@ -67,3 +67,27 @@ body{
     justify-content:center;
     align-content: center;
 }
+.work-title{
+    text-align: center;
+    margin: 40px 0px;
+}
+
+.work-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-shrink: 1;
+    flex-grow: 1;
+    justify-content: space-between;
+    margin:0 auto;
+    width:992px;
+
+}
+.work-div{
+    width:400px;
+    height: 400px;
+
+}
+.work-div img{
+    width: 100%;
+
+}
